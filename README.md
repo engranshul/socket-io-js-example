@@ -1,13 +1,13 @@
-##Commands to execute to run this project
+## Commands to execute to run this project
 
 * npm install
 * npm run dev
 * visit http://127.0.0.1:3000/
 
 
-##My Learnings from this project :
+## My Learnings from this project :
 
-###Typescript learnings :
+### Typescript learnings :
 
 * How to make class , interfaces and type in typescript
 * different data types in typescript : number, string,number[],any
@@ -20,7 +20,7 @@
 * compile time checking of typescript
 
 
-###Node js learnings :
+### Node js learnings :
 
 * nodemon so that server startup not required
 * package.json commands/scripts that can be executed
@@ -30,6 +30,6 @@
 
 
 
-###Html learnings :
+### Html learnings :
 *About how from html we can call javascript directly by using script src tag
 
