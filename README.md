@@ -27,6 +27,7 @@
 * npm for node package manager and its usage to install dependencies
 * task automation using npm https://www.npmjs.com/package/concurrently
 * node js socket io library basics concept : https://socket.io/docs/
+* client server concept in socket io
 
 
 
